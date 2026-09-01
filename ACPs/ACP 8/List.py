@@ -16,3 +16,5 @@ print(student_sec)
 monday_sub = {"Math", "Science", "English", "Computer", "Outdoor"}
 tuesday_sub = {"Math", "History", "English", "Sports", "Indoor"}
 
+print(monday_sub)
+print(tuesday_sub)
